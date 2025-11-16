@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Gonzalo Galván
 
-<!--
-**gonzalo2609/gonzalo2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 34 años y soy estudiante de la Tecnicatura en Desarrollo de Software (IES Tafí Viejo – Extensión Yerba Buena).  
+Actualmente estoy cursando mi segundo año, y en 2026 estaré finalizando la carrera.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías que estoy aprendiendo
+- C
+- C#
+- SQL Server
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mí
+Trabajo actualmente en Super Vea (Cencosud) y, en paralelo, desarrollo proyectos para mejorar mis habilidades en programación y bases de datos.
+
+### 🚀 Objetivo
+Seguir creciendo en el área de desarrollo y comenzar a trabajar en proyectos freelance o remoto para ganar experiencia real.
